@@ -2,6 +2,7 @@
 
 ## Langages et technos
 
+- [`Javascript`](javascript.md) ✅
 - [`Typescript`](typescript.md) ✅
 - [`NodeJS`](nodejs.md) ✅
 - [`React`](react.md) ✅
