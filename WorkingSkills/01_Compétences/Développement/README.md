@@ -9,8 +9,9 @@
 
 ## Notions et concepts
 
-- [Sécurité](sécurité.md)  ✅
+- [Sécurité](sécurité.md) ✅
 - [Authentification](authentication.md) ✅
+- [Authentification persistante (session & JWT)](persist.md) ✅
 
 ### Gestion de projets et autres
 
