@@ -175,7 +175,7 @@ const boundGreet = greet.bind(user);
 boundGreet(); // "Hello Alice"
 ```
 
-Dans l'exemple ci-dessus, `call()` et `apply()` appellent immédiatement la fonction en changeant this, tandis que bind() retourne une nouvelle fonction.
+Dans l'exemple ci-dessus, `call()` et `apply()` appellent immédiatement la fonction en changeant this, tandis que `bind()` retourne une nouvelle fonction.
 
 ## Exemples
 
